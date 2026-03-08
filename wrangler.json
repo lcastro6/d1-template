@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "a81830bf-bc93-4ddc-bf85-056f9e7c759a",
+			"database_name": "accesos-safety-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
